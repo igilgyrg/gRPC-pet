@@ -1,0 +1,62 @@
+{
+ "id": "ed81a40c-9ad7-4bb0-956e-e47237f834bf",
+ "brand": "Lenovo",
+ "name": "Thinkpad X1",
+ "cpu": {
+  "brand": "Apple",
+  "name": "Ryzen 3 PRO 3200GE",
+  "number_cores": 4,
+  "number_threads": 5,
+  "min_ghz": 2.262540276459359,
+  "max_ghz": 7.454537286697579
+ },
+ "memory": {
+  "value": "49",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "Nvidia",
+   "name": "RTX 2070",
+   "min_ghz": 1.4189675843178686,
+   "max_ghz": 1.4809882806755927,
+   "memory": {
+    "value": "5",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "290",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "4",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 16.55548,
+  "resolution": {
+   "width": 4200,
+   "height": 2363
+  },
+  "panel": "OLED",
+  "multitouch": false
+ },
+ "keyboard": {
+  "layout": "QWERTY",
+  "backlit": true
+ },
+ "weight_kg": 2.339915062608642,
+ "price_usd": 1659.354468682651,
+ "release_year": 2016,
+ "updated_at": "2022-10-13T18:23:33.869389Z"
+}
